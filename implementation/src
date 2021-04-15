@@ -1,0 +1,22 @@
+It contains all the functions used //
+
+int isLeapYear( int year );      
+/* True if leap year */
+
+int leapYears( int year );        
+ /* The number of leap year */
+ 
+int todayOf( int y, int m, int d);
+/* The number of days since the beginning of the year */
+
+
+long days( int y, int m, int d);  
+/* Total number of days */
+
+void calendar(int y, int m);     
+
+/* display calendar at m y */
+
+int getDayNumber(int d,int m,int y);
+
+\\ we can get the exact date\\
